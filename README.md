@@ -52,3 +52,32 @@ BEV_MASTER
 
 ## Results
 
+# Maruti800-EV-Retrofit-Simulation
+
+## BEV Simulink Model
+
+![BEV Model](Images/bev%20model.png)
+
+## Vehicle Model
+
+![Vehicle Unit](Images/vehicle%20unit.png)
+
+## Motor Drive Unit
+
+![Motor Drive Unit](Images/motor%20drive%20unit.png)
+
+## Battery Unit
+
+![Battery Unit](Images/battery%20unit.png)
+
+## Vehicle Performance
+
+![Vehicle Performance](Images/vehicle%20performance%20graph.png)
+
+## Battery Performance
+
+![Battery Performance](Images/battery%20graph.png)
+
+## Thermal Results
+
+![Thermal Results](Images/temperature%20graphs.png)
